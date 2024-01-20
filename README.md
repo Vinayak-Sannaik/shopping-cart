@@ -1,3 +1,15 @@
+# Install dev dependencies of T CSS -  npm install -D tailwindcss
+# Initialize tailwind -  npx tailwindcss init
+# Add content ["./src/**/*.{js,jsx,ts,tsx}"]
+# install @reduxjs/toolkit react-redux react-icons react-router-dom react-loader-spinner
+
+## wrap your app component with browserRouter
+## Create components, pages, store folders inside source folder
+## Pages have two folders cart.jsx, home.jsx
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
